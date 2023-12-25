@@ -5,12 +5,5 @@ Ekuation is the one tool to solve differential equations numerically via Kotlin.
 Pull requests are welcome! Feel free to contribute new solvers or utilities that extend Ekuation's capabilities.
 
 ### License
-Ekuation is released under the MIT License.
+Ekuation is released under the GPL3 License
 
-The key parts covered under the MIT license are:
-
-This code can be used freely in other projects (open source or commercial)
-Modifications can be made without needing to ask permission
-The code comes with no warranty
-Users should include the license text and copyright notice when reusing or distributing
-So it provides a simple, permissive open source license that allows reuse of Ekuation while retaining copyright.
